@@ -1,0 +1,28 @@
+*{
+    font-family: Sans-Serif;
+}
+body{
+    background-color: linen;
+}
+img{
+    margin-top: 15px;
+    margin-left: 34rem;
+}
+h1{
+    text-align: center;
+    margin-left: -11rem;
+}
+.hr{
+
+    height: 1px;
+    width: 800px;
+    background-color: lightblue;
+}
+span{
+    font-weight: bold;
+    color: #BA4B14
+}
+.alldiv{
+    margin-left: 150px;
+}
+    
